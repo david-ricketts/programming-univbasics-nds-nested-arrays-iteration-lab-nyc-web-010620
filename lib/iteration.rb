@@ -23,3 +23,9 @@ def total_even_pairs(src)
   # the number was even. Review the operator documentation if you've forgotten
   # this!
 end
+
+
+
+# taking a 2-D array and printing out the two elements of the inner array to 
+
+
